@@ -21,9 +21,6 @@ The project employs a data-driven framework to optimize Plasma Electrolytic Oxid
 1.  Place your dataset (`PEO_data.csv`) in the project directory.
 2.  Update the `csv_file_path` variable in the script if necessary.
 3.  Run the main script:
-    ```bash
-    python PEO_Optimization.py
-    ```
 
 ## Results
 The script outputs performance metrics (R², RMSE), generates comparison plots, and prints the predicted optimal processing conditions.
